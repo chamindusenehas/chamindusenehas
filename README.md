@@ -10,6 +10,7 @@ Languages and Tools I have used:
     <img width=50 height=50 src="https://w7.pngwing.com/pngs/234/329/png-transparent-python-logo-thumbnail.png">
   <img width=50 height=50 src="https://w7.pngwing.com/pngs/28/62/png-transparent-pycharm-hd-logo-thumbnail.png">
   <img width=50 height=50 src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text-thumbnail.png">
+  <img width=50 height=50 src="https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg">
   <img width=50 height=50 src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png">
   <img width=50 height=50 src="https://p7.hiclipart.com/preview/102/597/99/computer-programming-git-software-development-programmer-version-control-github-logo-thumbnail.jpg">
   <img width=50 height=50 src="https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png">
