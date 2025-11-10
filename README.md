@@ -19,12 +19,12 @@
 ###  Connect With Me
 <p align="center">
 <a href="www.linkedin.com/in/chamindu-senehas-250230299" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" /></a>
-<a href="mailto:senehaschamindu2006@gmail.com"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" height="40" width="40" /></a>
+<a href="mailto:senehaschamindu2006@gmail.com"><img align="center" src="assets/Gmail_idrA5FDGTH_0.svg" alt="Gmail" height="40" width="40" /></a>
 <a href="https://github.com/chamindusenehas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" width="40" /></a>
 <a href="https://www.facebook.com/ChameeZenehas" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="40" width="40" />
+  <img align="center" src="assets/facebook-svgrepo-com.svg" alt="Facebook" height="40" width="40" />
 </a>
-<a href="https://www.instagram.com/chamee_zenehas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+<a href="https://www.instagram.com/chamee_zenehas" target="blank"><img align="center" src="assets/instagram-2016-logo-svgrepo-com.svg" alt="Instagram" height="40" width="40" /></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="40" height="40" alt="Neo4j" />
 <br>
 <!-- Vector Databases -->
-<img src="https://avatars.githubusercontent.com/u/110818415?s=200&v=4" width="40" height="40" alt="Pinecone" />
+<img src="assets/Pinecone_Logo_0.svg" width="110" height="40" alt="Pinecone" />
 <img src="assets/chroma.svg" width="40" height="40" alt="ChromaDB" />
 <!-- Tools -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
