@@ -107,7 +107,7 @@
 ### Git-Hub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chamindusenehas&theme=juicyfresh" />
 
 ___
 
