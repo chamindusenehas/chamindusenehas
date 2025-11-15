@@ -100,7 +100,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindusenehas&layout=compact&s-count=50&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindusenehas&layout=compact&langs_count=50&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
