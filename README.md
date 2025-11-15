@@ -107,7 +107,7 @@
 ### Git-Hub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamindusenehas&rank=-?&column=-1&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chamindusenehas&rank=-?&column=-1&margin-w=15&margin-h=15&theme=onedark" />
 
 ___
 
