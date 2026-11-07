@@ -90,26 +90,33 @@
 
 ---
 
-###  GitHub Stats & Analytics
+
+<h3 align="center">📊 GitHub Stats & Analytics</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chamindusenehas&show_icons=true&theme=tokyonight" alt="My GitHub stats" />
+  <img src="./profile/stats.svg" alt="GitHub Statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chamindusenehas&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamindusenehas&layout=compact&langs_count=50&theme=tokyonight" alt="Top Languages" />
+  <img src="./profile/top-langs.svg" alt="Top Programming Languages" />
 </p>
+
 
 ---
-### Git-Hub Trophies
+
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chamindusenehas&rank=-?&column=-1&margin-w=15&margin-h=15&theme=onedark" />
+  <img
+    src="./profile/trophy.svg"
+    alt="GitHub Trophies"
+  />
+</p>
 
-___
 
 
 ###  Currently Focusing on,
